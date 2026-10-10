@@ -1,0 +1,22 @@
+{
+  "name": "tability",
+  "version": "1.0.0",
+  "description": "Review OKRs and KPIs, identify risks, prepare check-ins and meeting summaries, and create or update Tability records when requested.",
+  "author": {
+    "name": "Tability Pty Ltd",
+    "email": "support@tability.io"
+  },
+  "homepage": "https://www.tability.io",
+  "keywords": [
+    "tability",
+    "okr",
+    "kpi",
+    "goals",
+    "check-ins",
+    "productivity"
+  ],
+  "logo": "assets/tability-icon.png",
+  "mcpServers": "mcp.json",
+  "repository": "https://github.com/tabilityio/tability-mcp-grokbot",
+  "license": "MIT"
+}

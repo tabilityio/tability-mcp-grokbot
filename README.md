@@ -35,3 +35,7 @@ Publishing check-ins can trigger configured notifications, Slack messages and we
 For Cursor development, copy this plugin folder (including .cursor-plugin) into ~/.cursor/plugins/local/tability, reload Cursor, and confirm Tability appears in Customize. Complete OAuth and test against a sample workspace. Local plugin imports may be controlled by your team administrator.
 
 Verify installation and OAuth separately in Grok Bot before claiming compatibility. The package structure alone does not prove successful authentication or tool execution in either host.
+
+## License
+
+This plugin package is licensed under the MIT License. The hosted Tability service is separate and remains subject to its terms of service.
